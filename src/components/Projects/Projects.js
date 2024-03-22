@@ -12,6 +12,7 @@ const Projects = () => {
       <div className='projects__grid'>
         {projects.map((project) => (
           <ProjectContainer project={project} />
+
         ))}
       </div>
     </section>
