@@ -21,15 +21,34 @@ const projects = [
   {
     name: 'Arev Society',
     description:
-      'The Arev Society fosters and encourages philanthropy and solidarity of American people in support of vulnerable Armenians worldwide by supporting and financing initiatives for',
+      'The Arev Society is a New York-based corporation that fosters philanthropy and solidarity among the American people to support vulnerable Armenians worldwide.',
     livePreview: 'https://arev-society-react-git-master-azats-projects-0dbdb0ff.vercel.app/index.html',
   },
+
+
+
   {
     name: 'ToDoList',
     description:
-      'The items on the list can range from simple activities like replying to an email, to more complex tasks like creating project briefs.',
+      'This interactive and functional ToDoList allows users to add, modify, and remove tasks. The tasks colors change to indicate their status or progress.',
     livePreview: 'https://to-do-list-delta-dusky.vercel.app/',
   },
+
+  {
+    name: 'Contact form',
+    description:
+      'This contact form seamlessly connects users to your inbox. Just input your name and message, and hit send.',
+    livePreview: 'https://contact-form-4msmfkyfa-azats-projects-0dbdb0ff.vercel.app',
+  },
+
+  {
+    name: 'Survey form',
+    description:
+      'This stylish and user-friendly survey form enables users to submit and edit responses.',
+    livePreview: 'https://survey-form-five-beta.vercel.app/',
+  },
+
+
 
 
 ]
