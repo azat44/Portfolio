@@ -34,4 +34,11 @@
     align-items: flex-start;
     margin-top: 2em;
   }
+
+  .about__contact {
+    text-align: center; /* Centrer horizontalement */
+    margin: auto; /* Centrer verticalement */
+    padding-top:50px;
+
+}
 }

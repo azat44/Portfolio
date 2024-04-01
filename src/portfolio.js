@@ -9,8 +9,7 @@ const about = {
   name: 'AZAT HARUTYUNYAN',
   role: 'Junior front-end developer',
   description:
-    'Junior front-end developer living in france ready to help with your projects',
-  resume: 'a',
+    'Junior front-end developer living in france ready to help with your projects.',
   social: {
     linkedin: 'https://fr.linkedin.com/in/azat-harutyunyan-487570210?trk=public_post_feed-actor-name',
     github: 'https://github.com/azat4444',
@@ -44,7 +43,7 @@ const projects = [
   {
     name: 'Survey form',
     description:
-      'This stylish and user-friendly survey form enables users to submit and edit responses.',
+      'Start your day evaluation. Get your score with these 1o statements.',
     livePreview: 'https://survey-form-five-beta.vercel.app/',
   },
 
