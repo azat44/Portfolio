@@ -38,7 +38,7 @@ const projects = [
     name: 'Contact form',
     description:
       'This contact form seamlessly connects users to your inbox. Just input your name and message, and hit send.',
-    livePreview: 'https://contact-form-4msmfkyfa-azats-projects-0dbdb0ff.vercel.app',
+    livePreview: 'https://contact-form-git-master-azats-projects-0dbdb0ff.vercel.app/',
   },
 
   {
