@@ -18,9 +18,9 @@ const about = {
 
 const projects = [
   {
-    name: 'Arev Society',
+    name: 'Arev Society Inc',
     description:
-      'The Arev Society is a New York-based corporation that fosters philanthropy and solidarity among the American people to support vulnerable Armenians worldwide.',
+      'The Arev Society is a tax-exempt 501(c)(3) corporation that fosters philanthropy and solidarity among the American people to support vulnerable Armenians worldwide',
     livePreview: 'https://arev-society-react-git-master-azats-projects-0dbdb0ff.vercel.app/index.html',
   },
 
