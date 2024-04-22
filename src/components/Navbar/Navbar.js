@@ -15,6 +15,7 @@ const Navbar = () => {
 
   return (
     <nav className='center nav'>
+
       <ul
         style={{ display: showNavList ? 'flex' : null }}
         className='nav__list'
