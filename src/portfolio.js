@@ -59,7 +59,7 @@ const about = {
     'Junior front-end developer living in france ready to help with your projects.',
   social: {
     linkedin: 'https://fr.linkedin.com/in/azat-harutyunyan-487570210?trk=public_post_feed-actor-name',
-    github: 'https://github.com/azat4444',
+    github: 'https://github.com/azat44',
   },
 }
 

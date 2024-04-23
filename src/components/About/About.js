@@ -19,6 +19,7 @@ const About = () => {
 
       <div className='about__contact center'>
 
+
         {social && (
           <>
             {social.github && (
@@ -29,6 +30,7 @@ const About = () => {
               >
                 <GitHubIcon />
               </a>
+
             )}
 
             {social.linkedin && (
@@ -40,6 +42,7 @@ const About = () => {
                 <LinkedInIcon />
               </a>
             )}
+
           </>
         )}
       </div>
