@@ -38,7 +38,7 @@
   .about__contact {
     text-align: center; /* Centrer horizontalement */
     margin: auto; /* Centrer verticalement */
-    padding-top:50px;
+    padding-top:0px;
 
 }
 }

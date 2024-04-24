@@ -14,6 +14,7 @@ import { Helmet } from "react-helmet"
       content="front-end development, react, web development, javascript, single page applications, responsive design"
     />
     <meta name="author" content="Azat Harut" />
+
     {/* Open Graph meta tags for social media */}
     <meta
       property="og:title"
@@ -56,10 +57,11 @@ const about = {
   name: 'AZAT HARUTYUNYAN',
   role: 'Junior front-end developer',
   description:
-    'Junior front-end developer living in france ready to help with your projects.',
+    'Junior front-end developer living in france ready to help with your projects',
+  resume: 'CV.pdf',
   social: {
     linkedin: 'https://fr.linkedin.com/in/azat-harutyunyan-487570210?trk=public_post_feed-actor-name',
-    github: 'https://github.com/azat44',
+    github: 'https://github.com/azat4444',
   },
 }
 
