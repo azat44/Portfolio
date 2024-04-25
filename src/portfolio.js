@@ -2,49 +2,27 @@ import { Helmet } from "react-helmet"
 
 <Helmet>
   <>
-    <meta charSet="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Web Development Portfolio | Azat Harut </title>
+    <title>Web Development Portfolio | Azat Harut</title>{" "}
     <meta
       name="description"
-      content="Azat Harut is a front-end developper specializing in building modern web applications using React. I create high-performance, responsive, and user-friendly websites and web apps."
-    />
+      content="Learn web development with React and JavaScript. Get hands-on tutorials, code examples, and best practices from Azat Harut's website."
+    />{" "}
     <meta
       name="keywords"
-      content="front-end development, react, web development, javascript, single page applications, responsive design"
-    />
-    <meta name="author" content="Azat Harut" />
-
-    {/* Open Graph meta tags for social media */}
+      content="web development, react, javascript, tutorials, coding, frontend"
+    />{" "}
+    <meta name="author" content="Azat Harut" />{" "}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />{" "}
+    <meta name="robots" content="index, follow" />{" "}
     <meta
-      property="og:title"
-      content="Azat Harut - Front-end Development with React"
-    />
+      name="googlebot"
+      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    />{" "}
     <meta
-      property="og:description"
-      content="Azat Harut is a front-end developper  specializing in building modern web applications using React. We create high-performance, responsive, and user-friendly websites and web apps."
-    />
-    <meta
-      property="og:image"
-      content="https://www.portfolio.azatharut.com/og-image.jpg"
-    />
-    <meta property="og:url" content="https://azat-harut.com/" />
-    <meta property="og:type" content="website" />
-    {/* Twitter meta tags for social media */}
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
-      content="Azat harut - Front-end Development with React"
-    />
-    <meta
-      name="twitter:description"
-      content="Azat harut is a leading front-end development company specializing in building modern web applications using React. We create high-performance, responsive, and user-friendly websites and web apps."
-    />
-    <meta
-      name="twitter:image"
-      content="https://www.portfolio.azatharut.com/twitter-image.jpg"
-    />
-    <link rel="canonical" href="https://www.portfolio.azatharut.com/" />
+      name="bingbot"
+      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    />{" "}
+    <link rel="canonical" href="https://azat-harut.avdevex.com" />
   </>
 
 </Helmet>
@@ -58,7 +36,7 @@ const about = {
   role: 'Junior front-end developer',
   description:
     'Junior front-end developer living in france ready to help with your projects',
-  resume: 'CV.pdf',
+  resume: 'CV .pdf',
   social: {
     linkedin: 'https://fr.linkedin.com/in/azat-harutyunyan-487570210?trk=public_post_feed-actor-name',
     github: 'https://github.com/azat4444',
@@ -66,6 +44,14 @@ const about = {
 }
 
 const projects = [
+
+  {
+    name: 'Photography portfolio',
+    description:
+      'This Photography website is dedicated  to the black and white photography, shadows and architecture',
+    livePreview: 'https://bnw-av.com/',
+  },
+
   {
     name: 'Arev Society Inc',
     description:
@@ -73,14 +59,6 @@ const projects = [
     livePreview: 'https://arevsociety.org/',
   },
 
-
-
-  {
-    name: 'ToDoList',
-    description:
-      'This interactive and functional ToDoList allows users to add, modify, and remove tasks. The tasks colors change to indicate their status or progress.',
-    livePreview: 'https://to-do-list-delta-dusky.vercel.app/',
-  },
 
   {
     name: 'Contact form',
@@ -97,11 +75,12 @@ const projects = [
   },
 
   {
-    name: 'Photography portfolio',
+    name: 'ToDoList',
     description:
-      'The photography portfolio project presents a captivating selection of images, carefully curated to reflect the passion and the creativity.',
-    livePreview: 'https://bnw-av.com/',
+      'This interactive and functional ToDoList allows users to add, modify, and remove tasks. The tasks colors change to indicate their status or progress.',
+    livePreview: 'https://to-do-list-delta-dusky.vercel.app/',
   },
+
 
 
 
