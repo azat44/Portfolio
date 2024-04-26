@@ -46,17 +46,17 @@ const about = {
 const projects = [
 
   {
-    name: 'Photography portfolio',
-    description:
-      'This Photography website is dedicated  to the black and white photography, shadows and architecture',
-    livePreview: 'https://bnw-av.com/',
-  },
-
-  {
     name: 'Arev Society Inc',
     description:
       'The Arev Society is a tax-exempt 501(c)(3) corporation that fosters philanthropy and solidarity among the American people to support vulnerable Armenians worldwide.',
     livePreview: 'https://arevsociety.org/',
+  },
+
+  {
+    name: 'Photography portfolio',
+    description:
+      'This Photography website is dedicated  to the black and white photography, shadows and architecture',
+    livePreview: 'https://bnw-av.com/',
   },
 
 
