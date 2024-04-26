@@ -55,7 +55,7 @@ const projects = [
   {
     name: 'Photography portfolio',
     description:
-      'This Photography website is dedicated  to the black and white photography, shadows and architecture',
+      'This website is dedicated to the black and white photography, shadows and architecture',
     livePreview: 'https://bnw-av.com/',
   },
 
