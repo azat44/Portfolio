@@ -35,7 +35,7 @@ const about = {
   name: 'AZAT HARUTYUNYAN',
   role: 'Junior front-end developer',
   description:
-    'Junior front-end developer living in france ready to help with your projects',
+    'Junior front-end developer living in France, ready to help with your projects.',
   resume: 'CV .pdf',
   social: {
     linkedin: 'https://fr.linkedin.com/in/azat-harutyunyan-487570210?trk=public_post_feed-actor-name',
@@ -55,7 +55,7 @@ const projects = [
   {
     name: 'Photography portfolio',
     description:
-      'This website is dedicated to the black and white photography, shadows and architecture',
+      'This website is dedicated to the black and white photography, shadows and architecture.',
     livePreview: 'https://bnw-av.com/',
   },
 
