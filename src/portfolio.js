@@ -81,6 +81,13 @@ const projects = [
     livePreview: 'https://to-do-list-delta-dusky.vercel.app/',
   },
 
+  {
+    name: 'Charity Donation Page',
+    description:
+      'This donation page is for testing; we don’t collect or store any personal or payment card information',
+    livePreview: 'https://donation-page-git-master-azats-projects-0dbdb0ff.vercel.app/',
+  },
+
 
 
 
