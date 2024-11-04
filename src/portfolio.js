@@ -46,6 +46,14 @@ const about = {
 const projects = [
 
   {
+    name: 'AveXgen',
+    description:
+      'Outsourcing company in Las Vegas.',
+    livePreview: 'https://avexgen.com/',
+
+  },
+
+  {
     name: 'Arev Society Inc',
     description:
       'The Arev Society is a tax-exempt 501(c)(3) corporation that fosters philanthropy and solidarity among the American people to support vulnerable Armenians worldwide.',
