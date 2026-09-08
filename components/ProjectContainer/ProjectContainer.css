@@ -1,0 +1,42 @@
+.project {
+  padding: 2em;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 0.5em;
+  background-color: var(--clr-bg-alt);
+  box-shadow: var(--shadow);
+  border: 1px solid transparent;
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 0.35s cubic-bezier(0.16, 1, 0.3, 1),
+    border-color 0.35s ease;
+  margin-right: 15px;
+}
+
+.project:hover {
+  transform: translateY(-7px);
+  border-color: var(--clr-primary);
+}
+
+.project__description {
+  margin-top: 1em;
+}
+
+.project__stack {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 1.2em 0;
+
+}
+
+.project__stack-item {
+  margin: 0.5em;
+  font-weight: 500;
+  font-size: 0.8rem;
+  color: var(--clr-fg-alt);
+  
+}
+
+.project .link--icon {
+    top:8%
+}
